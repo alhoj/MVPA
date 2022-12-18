@@ -13,4 +13,4 @@ Codes for multivariate pattern analysis (MVPA) of fMRI data based on artificial 
 
 -classify_all.m: Here you can run multiple runs of the classifier for different settings.
 
--make_script_array.m: Generates and submits scripts to run on triton (using Slurm). Calls 
+-make_script_array.m: Generates and submits scripts to run on triton (using Slurm).
